@@ -1,15 +1,13 @@
 {
-  "name": "draft-js-mention-plugin",
+  "name": "draft-js-modified-mention-plugin",
   "version": "2.0.0-beta5",
-  "description": "Mention Plugin for DraftJS",
+  "description": "Modified Mention Plugin for DraftJS",
   "author": {
-    "name": "Nik Graf",
-    "email": "nik@nikgraf.com",
-    "url": "http://www.nikgraf.com"
+    "name": "CV",
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/draft-js-plugins/draft-js-plugins.git"
+    "url": "git@github.com:whathejoe/draft-js-modified-mention-plugin.git"
   },
   "main": "lib/index.js",
   "keywords": [
